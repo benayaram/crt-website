@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Video 1",
+    "videoLink": "https://www.youtube.com/watch?v=BlVD1-bxABg",
+    "resources": "https://www.youtube.com/watch?v=BlVD1-bxABg, https://www.youtube.com/watch?v=BlVD1-bxABg",
+    "runningNotes": "https://www.youtube.com/watch?v=BlVD1-bxABg",
+    "keywords": "keyword1, keyword2"
+  },
+  {
+    "title": "Video 2",
+    "videoLink": "https://www.youtube.com/watch?v=BlVD1-bxABg",
+    "resources": "https://www.youtube.com/watch?v=BlVD1-bxABg",
+    "runningNotes": "https://www.youtube.com/watch?v=BlVD1-bxABg",
+    "keywords": "keyword3, keyword4"
+  }
+]
