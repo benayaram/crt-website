@@ -96,6 +96,6 @@
     "resources": "Docker Website ,https://www.docker.com/",
     "runningNotes": "https://www.docker.com/",
     "keywords": "docker, container,deployment"
-  },
+  }
   
 ]
