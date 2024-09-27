@@ -19,5 +19,12 @@
   "resources": "Fastapi.com",
   "runningNotes": "https://www.fastapi.com/",
   "keywords": "fastapi,api,react"
+},
+{
+  "title": "Ramesh Loginadhan",
+  "videoLink": "https://www.youtube.com/watch?v=EeF79wDXY-o",
+  "resources": "https://www.youtube.com/watch?v=EeF79wDXY-o,https://www.youtube.com/watch?v=EeF79wDXY-o",
+  "runningNotes": "https://www.youtube.com/watch?v=BlVD1-bxABg",
+  "keywords": "Communication,iot,iith"
 }
 ]
