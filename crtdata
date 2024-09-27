@@ -166,5 +166,12 @@
     "resources": "python Idle,https://python.com/",
     "runningNotes": "https://python.com/",
     "keywords": "Fast api, Python"
-  }
+  },
+  {
+  "title": "Bhanu Prabhas",
+  "videoLink": "https://www.youtube.com/watch?v=Vv6IzycDAZ8",
+  "resources": "Fastapi.com",
+  "runningNotes": "https://www.fastapi.com/",
+  "keywords": "fastapi,api,react"
+}
 ]
